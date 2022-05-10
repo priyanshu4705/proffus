@@ -1,0 +1,40 @@
+.categoryies {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 60px;
+  margin-bottom: 4rem;
+}
+
+.cat > .header {
+  margin-left: 60px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.category {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: #fff;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  cursor: pointer;
+  width: 20vw;
+}
+
+.category .title {
+  margin-top: 1rem;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+}
