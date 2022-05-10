@@ -3,6 +3,7 @@ import Category from "./Category";
 import fish1 from "../../assets/images/fish1.png";
 import fish2 from "../../assets/images/fish2.png";
 import fish3 from "../../assets/images/fish3.png";
+import glanceimg from "../../assets/images/glance.png";
 
 function Categories() {
   const categories = [
@@ -27,6 +28,10 @@ function Categories() {
         {categories.map((category, index) => (
           <Category key={index} title={category.title} image={category.image} />
         ))}
+      </div>
+      <div className="glance">
+        <h3>A GLANCE AT OUR PRODUCTS</h3>
+        <img src={glanceimg} alt="glance" />
       </div>
     </div>
   );
