@@ -1,0 +1,55 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.img {
+  flex: 0.3;
+  margin-left: 60px;
+}
+
+.img > img {
+    margin-top: 20px;
+}
+
+.list {
+  flex: 0.6;
+  margin-right: 60px;
+}
+
+.list > ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 28px;
+  text-align: center;
+}
+
+.list > ul > li > a {
+  color: #0e79bd;
+}
+
+.loginbtn {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 28px;
+  text-align: center;
+  background-color: #0e79bd;
+  color: white;
+
+  outline: none;
+  border: none;
+
+  border-radius: 10px;
+  padding: 15px 75px;
+
+    cursor: pointer;
+}
