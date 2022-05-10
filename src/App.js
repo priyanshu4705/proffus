@@ -5,6 +5,7 @@ import Footer from "./components/Footer/Footer";
 import Faqs from "./components/FAQs/Faqs";
 import HaveARead from "./components/HaveARead/HaveARead";
 import Categories from "./components/Categories/Categories";
+import Topics from "./components/Topics/Topics";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Categories />
       <Faqs />
       <HaveARead />
+      <Topics />
       <Footer />
     </div>
   );

@@ -1,17 +1,4 @@
-.har-header {
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  margin-bottom: 2rem;
-
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 3rem;
-  text-align: center;
-}
-
-.reads {
+.topics {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,43 +6,51 @@
   margin-bottom: 4rem;
 }
 
-.read {
-  padding: 1rem;
+.topic {
   background: #fff;
   border: 1px solid lightgray;
-  border-radius: 10px;
+  border-radius: 30px;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
     rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
   width: 92vw;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+
+  display: flex;
 }
-.read > .heading {
+
+.topic-content {
+  padding: 2rem 0 0 3rem;
+  flex: 0.5;
+  text-align: justify;
+}
+
+.topic > img {
+  flex: 0.5;
+  overflow: auto;
+}
+
+.topic-content > .heading {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
   color: #000000;
 }
 
-.read > .content {
+.topic-content > .content {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
-  text-align: justify;
-  font-size: 1rem;
-  margin-bottom: 1rem;
+  text-align: left;
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
 }
-.read > .readmore {
+.topic-content > .readmore {
   align-items: center;
-  justify-content: flex-end;
   display: flex;
   font-size: 1.25rem;
   font-weight: normal;
   font-family: "Roboto";
   color: #0e79bd;
-}
-
-.rightarrow {
-  margin-left: 0.5rem;
 }
