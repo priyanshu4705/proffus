@@ -1,0 +1,58 @@
+{
+  "faqs": [
+    {
+      "ques": "Velit venenatis pretium mattis consectetur massa pretium mattis ?",
+      "ans": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+    },
+    {
+      "ques": "Velit venenatis pretium mattis consectetur massa pretium mattis ?",
+      "ans": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+    },
+    {
+      "ques": "Velit venenatis pretium mattis consectetur massa pretium mattis ?",
+      "ans": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+    }
+  ],
+  "categories": [
+    {
+      "title": "FISH",
+      "image": "https://raw.githubusercontent.com/priyanshu4705/proffus/master/src/assets/images/fish1.png"
+    },
+    {
+      "title": "CRUSTACEANS",
+      "image": "https://raw.githubusercontent.com/priyanshu4705/proffus/master/src/assets/images/fish2.png"
+    },
+    {
+      "title": "EXOTIC",
+      "image": "https://raw.githubusercontent.com/priyanshu4705/proffus/master/src/assets/images/fish3.png"
+    }
+  ],
+  "reads": [
+    {
+      "heading": "The right quality",
+      "content": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+    },
+    {
+      "heading": "The right time",
+      "content": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+    },
+    {
+      "heading": "The basis of a balanced diet",
+      "content": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+    }
+  ],
+  "topics":[
+    {
+      "header": "TOPICS YOU CAN'T MISS",
+      "content":
+        "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada.",
+      "image":"https://raw.githubusercontent.com/priyanshu4705/proffus/master/src/assets/images/topic1img.png"
+    },
+    {
+      "header": "HOW TO CLEAN/CUT YOUR SEAFOOD",
+      "content":
+        "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada.",
+      "image": "https://raw.githubusercontent.com/priyanshu4705/proffus/master/src/assets/images/topic2img.png"
+    }
+  ]
+}
